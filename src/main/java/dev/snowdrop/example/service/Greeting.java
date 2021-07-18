@@ -18,7 +18,7 @@ package dev.snowdrop.example.service;
 // tag::snippet-greeting[]
 public class Greeting {
 
-    public static final String FORMAT = "Helloooo, %s!";
+    public static final String FORMAT = "Hellolllllooo, %s!";
 
     private final String content;
 
